@@ -1,4 +1,4 @@
-
+@MITIKA GUPTA
 # Netflix GPT
 
 - Create React App
