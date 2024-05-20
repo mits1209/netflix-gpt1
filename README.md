@@ -3,6 +3,12 @@
 
 - Create React App
 - Configured TailwindCSS
+- Header
+- Routing of app
+- login form
+- sign up form
+- form validation
+- useRef hook
 
 # Features 
     - Login/ SignUp page
